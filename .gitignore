@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.h5
+.ipynb_checkpoints/
+breast-histopathology-images/
