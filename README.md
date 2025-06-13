@@ -95,7 +95,7 @@ Visual Results:
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
-````
+   ````
 
 2. Download the Kaggle dataset and extract into a folder named data/
 
